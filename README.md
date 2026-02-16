@@ -6,7 +6,7 @@ Darbs ar UI elementiem Unity dzinī
 
 \[x] 1. Izstrādāt sākuma ainu no, kuras ir iespējams aizvērt projektu vai izvēlēties uzsākt tēla veidošanas spēli. Nodrošināta iespēja pārslēgties starp projektā iekļautajām ainām (2p)
 
-2\. Pielietojot teksta ievades laukus (2 gab., input field) iespējams ievadīt tēla vārdu un dzimšanas gadu (šajā laukā iespējams ievadīt tikai skaitļus), pogas (button) nospiešana nodrošina ievadīto vērtību attēlošanu teksta (text) laukā, aprēķinot vecumu (Piemēram: „Supervaronis Oskars ir 25 gadus vecs!”) (2p)
+\[x] 2. Pielietojot teksta ievades laukus (2 gab., input field) iespējams ievadīt tēla vārdu un dzimšanas gadu (šajā laukā iespējams ievadīt tikai skaitļus), pogas (button) nospiešana nodrošina ievadīto vērtību attēlošanu teksta (text) laukā, aprēķinot vecumu (Piemēram: „Supervaronis Oskars ir 25 gadus vecs!”) (2p)
 
 3\. Pielietojot izkrītošo sarakstu (dropdown), iespējams izvēlēties vismaz divus tēlus, kurus iespējams apģērbt (1p)
 
