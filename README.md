@@ -4,7 +4,7 @@ Darbs ar UI elementiem Unity dzinī
 
 
 
-1. Izstrādāt sākuma ainu no, kuras ir iespējams aizvērt projektu vai izvēlēties uzsākt tēla veidošanas spēli. Nodrošināta iespēja pārslēgties starp projektā iekļautajām ainām (2p)
+\[x] 1. Izstrādāt sākuma ainu no, kuras ir iespējams aizvērt projektu vai izvēlēties uzsākt tēla veidošanas spēli. Nodrošināta iespēja pārslēgties starp projektā iekļautajām ainām (2p)
 
 2\. Pielietojot teksta ievades laukus (2 gab., input field) iespējams ievadīt tēla vārdu un dzimšanas gadu (šajā laukā iespējams ievadīt tikai skaitļus), pogas (button) nospiešana nodrošina ievadīto vērtību attēlošanu teksta (text) laukā, aprēķinot vecumu (Piemēram: „Supervaronis Oskars ir 25 gadus vecs!”) (2p)
 
@@ -14,7 +14,7 @@ Darbs ar UI elementiem Unity dzinī
 
 5\. Izvēlēto aprīkojumu pēc drag and drop principa ar datorpeles palīdzību ir iespējams pārvietot un nolikt izvēlētajā vietā uz tēla (1p)
 
-6\. Nodrošināti skaņas efekti (pogu klikšķi, fona mūzika, tēlu izdarītās skaņas) (1p)
+\[x] 6. Nodrošināti skaņas efekti (pogu klikšķi, fona mūzika, tēlu izdarītās skaņas) (1p)
 
 7\. Ainā ir ievietots scroll view, kurā lasāms apraksts par projektā iekļautajiem tēliem. Nomainot tēlu, attiecīgi nomainās arī tajā esošais tēla apraksts (1p)
 
