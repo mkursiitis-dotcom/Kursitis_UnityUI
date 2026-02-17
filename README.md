@@ -10,7 +10,7 @@ Darbs ar UI elementiem Unity dzinī
 
 \[x] 3. Pielietojot izkrītošo sarakstu (dropdown), iespējams izvēlēties vismaz divus tēlus, kurus iespējams apģērbt (1p)
 
-4\. Izveidotas vairākas apģērbu un aprīkojuma kategorijas (bikses, zābaki, cepures, cimdi, amuleti, u.tml.) no kurām ar toggle pogu palīdzību iespējams parādīt un paslēpt attiecīgos elementus. Katra kategorija satur vismaz trīs apģērba gabalus (2p)
+\[x] 4. Izveidotas vairākas apģērbu un aprīkojuma kategorijas (bikses, zābaki, cepures, cimdi, amuleti, u.tml.) no kurām ar toggle pogu palīdzību iespējams parādīt un paslēpt attiecīgos elementus. Katra kategorija satur vismaz trīs apģērba gabalus (2p)
 
 5\. Izvēlēto aprīkojumu pēc drag and drop principa ar datorpeles palīdzību ir iespējams pārvietot un nolikt izvēlētajā vietā uz tēla (1p)
 

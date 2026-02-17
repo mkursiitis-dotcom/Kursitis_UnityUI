@@ -17,12 +17,12 @@ public class UIScript : MonoBehaviour
     public void Augstums()
     {
         float currentValue = augstumsSlider.GetComponent<Slider>().value;
-        imageField.transform.localScale = new Vector2(1f, 1f * currentValue);
+        imageField.transform.localScale = new Vector2(platumsSlider.GetComponent<Slider>().value, 1f * currentValue);
     }
 
     public void Platums()
     {
         float currentValue = platumsSlider.GetComponent<Slider>().value;
-        imageField.transform.localScale = new Vector2(1f * currentValue, 1f);
+        imageField.transform.localScale = new Vector2(1f * currentValue, augstumsSlider.GetComponent<Slider>().value);
     }
 }
