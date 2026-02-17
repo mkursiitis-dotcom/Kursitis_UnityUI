@@ -16,7 +16,7 @@ Darbs ar UI elementiem Unity dzinī
 
 \[x] 6. Nodrošināti skaņas efekti (pogu klikšķi, fona mūzika, tēlu izdarītās skaņas) (1p)
 
-7\. Ainā ir ievietots scroll view, kurā lasāms apraksts par projektā iekļautajiem tēliem. Nomainot tēlu, attiecīgi nomainās arī tajā esošais tēla apraksts (1p)
+\[x] 7. Ainā ir ievietots scroll view, kurā lasāms apraksts par projektā iekļautajiem tēliem. Nomainot tēlu, attiecīgi nomainās arī tajā esošais tēla apraksts (1p)
 
 \[x] 8. Iekļauti divi slider elementi, kur viens maina apģērbjamā tēla garumu, bet otrs platumu (2p)
 
