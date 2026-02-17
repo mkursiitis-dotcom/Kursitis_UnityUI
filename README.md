@@ -12,7 +12,7 @@ Darbs ar UI elementiem Unity dzinī
 
 \[x] 4. Izveidotas vairākas apģērbu un aprīkojuma kategorijas (bikses, zābaki, cepures, cimdi, amuleti, u.tml.) no kurām ar toggle pogu palīdzību iespējams parādīt un paslēpt attiecīgos elementus. Katra kategorija satur vismaz trīs apģērba gabalus (2p)
 
-5\. Izvēlēto aprīkojumu pēc drag and drop principa ar datorpeles palīdzību ir iespējams pārvietot un nolikt izvēlētajā vietā uz tēla (1p)
+\[x] 5. Izvēlēto aprīkojumu pēc drag and drop principa ar datorpeles palīdzību ir iespējams pārvietot un nolikt izvēlētajā vietā uz tēla (1p)
 
 \[x] 6. Nodrošināti skaņas efekti (pogu klikšķi, fona mūzika, tēlu izdarītās skaņas) (1p)
 
